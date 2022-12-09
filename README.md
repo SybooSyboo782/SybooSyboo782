@@ -1,6 +1,6 @@
 ### 안녕하세요 초보 백엔드 개발자 부시연입니다.
 
-[블로그](https://syboosyboo.tistory.com/1)
+[블로그](https://syboosyboo.tistory.com)
 
 <!--
 **SybooSyboo782/SybooSyboo782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
