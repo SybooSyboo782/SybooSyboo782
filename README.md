@@ -1,6 +1,6 @@
 ### 안녕하세요 초보 백엔드 개발자 부시연입니다.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SybooSyboo782&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SybooSyboo782&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SybooSyboo782&layout=compact&theme=cobalt) 
 
 [블로그](https://syboosyboo.tistory.com)
 
