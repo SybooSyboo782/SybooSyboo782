@@ -2,6 +2,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats-bice-five-10.vercel.app/api?username=SybooSyboo782&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats-bice-five-10.vercel.app/api/top-langs/?username=SybooSyboo782&layout=compact&theme=cobalt) 
 
 [블로그](https://syboosyboo.tistory.com)
+<br/>
+[Git 블로그](https://syboosyboo782.github.io/)
 
 <!--
 **SybooSyboo782/SybooSyboo782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
