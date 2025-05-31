@@ -1,6 +1,8 @@
 ### 안녕하세요 초보 백엔드 개발자 부시연입니다.
 
-### 나일소프트 (2023.04.24 ~ )
+### 나일소프트 (2023.04.24 ~ 2025.05.30)
+
+### 현재 공부중
 
 ![Anurag's GitHub stats](https://github-readme-stats-bice-five-10.vercel.app/api?username=SybooSyboo782&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats-bice-five-10.vercel.app/api/top-langs/?username=SybooSyboo782&layout=compact&theme=cobalt) 
 
