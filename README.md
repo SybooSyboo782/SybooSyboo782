@@ -1,26 +1,27 @@
-### 안녕하세요 초보 백엔드 개발자 부시연입니다.
+## 🙋‍♂️ Introduction
 
-#### 나일소프트 (2023.04.24 ~ 2025.05.30)
+Junior Backend Developer passionate about Java, Spring, and server-side development.
+Currently focusing on building personal projects and deepening my understanding of backend technologies.
 
-### 현재 공부중
+### 💼 Work Experience
 
-![Anurag's GitHub stats](https://github-readme-stats-bice-five-10.vercel.app/api?username=SybooSyboo782&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats-bice-five-10.vercel.app/api/top-langs/?username=SybooSyboo782&layout=compact&theme=cobalt) 
+| Company      | Period                        | Role / Description         |
+|--------------|-------------------------------|-----------------------------|
+| **나일소프트(NileSoft)** | 2023.04.24 – 2025.05.30  | Backend Developer           |
 
-[블로그](https://syboosyboo.tistory.com)
-<br/>
-[Git 블로그](https://syboosyboo782.github.io/)
+### 📚 Currently Studying
 
-<!--
-**SybooSyboo782/SybooSyboo782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats-bice-five-10.vercel.app/api?username=SybooSyboo782&show_icons=true&theme=cobalt) 
+![Top Langs](https://github-readme-stats-bice-five-10.vercel.app/api/top-langs/?username=SybooSyboo782&layout=compact&theme=cobalt) 
 
-Here are some ideas to get you started:
+- 🌐 [Tistory Blog](https://syboosyboo.tistory.com)
+- 📘 [GitHub Blog](https://syboosyboo782.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📜 Certificate
+- **SQL 개발자(SQL Developer)**, Korea Data Agency – 2022.11
+- **정보처리기사(Engineer Information Processing)**, HRD Korea – 2024.06
+
+### 🔍 Goals
+
+> I aim to fully understand the technologies I'm working with  
+> and always stay curious about the latest tech trends.
