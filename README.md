@@ -8,6 +8,7 @@ Currently focusing on building personal projects and deepening my understanding 
 | Company      | Period                        | Role / Description         |
 |--------------|-------------------------------|-----------------------------|
 | **나일소프트(NileSoft)** | 2023.04.24 – 2025.05.30  | Backend Developer           |
+| **시큐레이어(Seculayer)** | 2026.04.13 –   | Backend Developer           |
 
 ### 📚 Currently Studying
 
